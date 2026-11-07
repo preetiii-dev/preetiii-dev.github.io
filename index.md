@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Home
@@ -12,18 +13,20 @@ title: Home
       ✨ FA1 Financial Sandbox Active
     </div>
     
-    <!-- GIANT BOLD TYPOGRAPHY WITH THE CUSTOM UNDERLINE -->
-    <h1 style="font-size: 3.4em; font-weight: 800; color: #0f172a; line-height: 1.1; margin: 0 0 25px 0; letter-spacing: -1.5px;">
-      A chaotic thought becomes a <span style="position: relative; display: inline-block; color: #0f172a;">venture.<span style="position: absolute; left: 0; bottom: 5px; width: 100%; height: 8px; background: #fbbf24; z-index: -1; border-radius: 4px;"></span></span>
+    <!-- REBEL HEADLINE WITH HIGHLIGHT METAPHOR UNDERLINE -->
+    <h1 style="font-size: 3em; font-weight: 800; color: #0f172a; line-height: 1.15; margin: 0 0 25px 0; letter-spacing: -1.5px;">
+      In a world optimized by AI, human chaos is a <span style="position: relative; display: inline-block; color: #0f172a;">venture.<span style="position: absolute; left: 0; bottom: 5px; width: 100%; height: 8px; background: #fbbf24; z-index: -1; border-radius: 4px;"></span></span> Writing is my rebellion, and I am born rebellious.
     </h1>
     
-    <p style="font-size: 1.25em; line-height: 1.7; color: #475569; margin: 0 0 35px 0; font-weight: 400;">
-      I build software startups from scratch while translating dry ACCA professional accountancy ledger rules into creative real-world human logic.
+    <!-- SUB-HEADLINE TEXT WITH THE NIKKI SIGNATURE EFFECT -->
+    <p style="font-size: 1.2em; line-height: 1.7; color: #475569; margin: 0 0 35px 0; font-weight: 400;">
+      In an era of perfect AI code and sterile balances, I choose the beautiful chaos of human logic. Born rebellious, building a SaaS from scratch. <span style="font-style: italic; color: #059669; font-weight: 600; margin-left: 4px;">(Hiiii, this is Nikki!)</span>
     </p>
     
+    <!-- REBEL THEMED UTILITY BUTTONS -->
     <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-      <a href="#streams" style="background: #059669; color: white; padding: 14px 28px; border-radius: 30px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px -5px rgba(5,150,105,0.3); font-size: 1em;">Explore Intel Streams</a>
-      <a href="/about" style="border: 2px solid #cbd5e1; color: #475569; padding: 12px 26px; border-radius: 30px; font-weight: 700; text-decoration: none; font-size: 1em;">Read Profile Background</a>
+      <a href="#streams" style="background: #059669; color: white; padding: 14px 28px; border-radius: 30px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; box-shadow: 0 10px 20px -5px rgba(5,150,105,0.3); font-size: 0.9em;">Read the Rebellion</a>
+      <a href="/about" style="border: 2px solid #cbd5e1; color: #475569; padding: 12px 26px; border-radius: 30px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; font-size: 0.9em;">See the SaaS</a>
     </div>
   </div>
 
