@@ -1,8 +1,8 @@
-
 ---
 layout: default
 title: Home
 ---
+
 
 <!-- HERO BANNER WRAPPER GRID -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 80px; padding: 20px 0;">
