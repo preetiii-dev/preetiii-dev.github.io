@@ -19,17 +19,18 @@ title: Home
     </nav>
   </div>
 
-  <!-- MID-SIZED, ACCESSIBLE TEXT CONTENT DEPLOYMENT -->
+  <!-- MID-SIZED, OPTIMIZED TEXT CONTENT DEPLOYMENT -->
   <div style="max-width: 1100px; margin: 0 auto; text-align: left;">
-    <div style="background: #1A1A1A; color: #DAAS20; padding: 6px 14px; border-radius: 30px; font-size: 0.8em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 25px;">
+    <div style="background: #1A1A1A; color: #DAAS20; padding: 6px 14px; border-radius: 30px; font-size: 0.85em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 30px;">
       ⚡ System Node: Human Sandbox Active
     </div>
     
-    <h1 style="color: #F3EFE0; margin: 0 0 25px 0; font-size: 2.3em; font-weight: 700; letter-spacing: -1px; line-width: 1.4; max-width: 850px;">
+    <!-- OPTIMIZED MEDIUM FONT ADJUSTMENT LAYER -->
+    <h1 style="color: #F3EFE0; margin: 0 0 25px 0; font-size: 1.95em; font-weight: 700; letter-spacing: -0.5px; line-height: 1.45; max-width: 800px;">
       In a world optimized by AI, human chaos is a venture. Writing is my rebellion, and I am born rebellious.
     </h1>
     
-    <p style="font-size: 1.15em; line-height: 1.7; color: #F3EFE0; opacity: 0.85; margin: 0 0 40px 0; font-weight: 400; max-width: 750px;">
+    <p style="font-size: 1.1em; line-height: 1.7; color: #F3EFE0; opacity: 0.85; margin: 0 0 45px 0; font-weight: 400; max-width: 700px; letter-spacing: 0.1px;">
       In an era of perfect AI code and sterile balances, I choose the beautiful chaos of human logic. Born rebellious, building a SaaS from scratch. <span style="font-style: italic; color: #DAAS20; font-weight: 700; margin-left: 4px;">(Hiiii, this is Nikki!)</span>
     </p>
     
@@ -41,7 +42,7 @@ title: Home
 
 </div>
 
-<!-- 🔴 BODY SECTION WRAPPER (RESTS SECURELY ON BONE WHITE CANVAS BACKGROUND) -->
+<!-- 🔴 BODY SECTION WRAPPER -->
 <div style="max-width: 1100px; margin: 60px auto 0 auto;">
 
   <!-- METRICS CARD ROW -->
@@ -121,6 +122,7 @@ title: Home
   </div>
 
 </div>
+
 
 
 
