@@ -8,56 +8,58 @@
   <link rel="preconnect" href="https://gstatic.com" crossorigin>
   <link href="https://googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet">
   <style>
-    body { font-family: 'Plus Jakarta Sans', sans-serif; margin: 0; padding: 0; background-color: #fafafa; color: #0f172a; }
-    .nav-btn:hover { background-color: #047857 !important; transform: translateY(-1px); }
-    .card-link:hover { transform: translateY(-3px); box-shadow: 0 12px 20px -5px rgba(0,0,0,0.1) !important; }
+    body { font-family: 'Plus Jakarta Sans', sans-serif; margin: 0; padding: 0; background-color: #F3EFE0; color: #1A1A1A; }
+    .nav-link:hover { color: #D72631 !important; }
+    .nav-btn:hover { background-color: #b81e27 !important; transform: translateY(-1px); }
+    .card-link:hover { transform: translateY(-3px); box-shadow: 0 12px 20px -5px rgba(0,0,0,0.08) !important; }
   </style>
 </head>
 <body>
 
-  <!-- PREMIUM HORIZONTAL HEADER -->
-  <header style="background: #ffffff; padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; box-shadow: 0 2px 10px rgba(0,0,0,0.02); position: sticky; top: 0; z-index: 1000;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <div style="background: #059669; width: 32px; height: 32px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 800; font-size: 1.1em;">V</div>
-      <span style="font-weight: 800; font-size: 1.2em; letter-spacing: -0.5px; color: #0f172a;">Visionary Founder<span style="color: #059669;">.me</span></span>
+  <!-- 🔴 LUXURY EDITORIAL HEADER -->
+  <header style="background: #F3EFE0; padding: 25px 40px; display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #1A1A1A; position: sticky; top: 0; z-index: 1000;">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <div style="background: #D72631; width: 34px; height: 34px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #F3EFE0; font-weight: 800; font-size: 1.2em;">V</div>
+      <span style="font-weight: 800; font-size: 1.3em; letter-spacing: -0.5px; color: #1A1A1A;">Visionary Founder<span style="color: #D72631;">.me</span></span>
     </div>
     <nav style="display: flex; align-items: center; gap: 35px;">
-      <a href="/" style="text-decoration: none; color: #059669; font-weight: 700; font-size: 0.95em;">Home</a>
-      <a href="/about" style="text-decoration: none; color: #475569; font-weight: 600; font-size: 0.95em;">About Me</a>
-      <a href="mailto:worksharma811@gmail.com" class="nav-btn" style="text-decoration: none; background: #059669; color: white; padding: 10px 20px; border-radius: 30px; font-weight: 700; font-size: 0.95em; transition: all 0.2s; box-shadow: 0 4px 6px rgba(5,150,105,0.15);">Contact Now →</a>
+      <a href="/" class="nav-link" style="text-decoration: none; color: #1A1A1A; font-weight: 700; font-size: 0.95em; transition: color 0.2s;">Home</a>
+      <a href="/about" class="nav-link" style="text-decoration: none; color: #1A1A1A; font-weight: 600; font-size: 0.95em; transition: color 0.2s;">About Me</a>
+      <a href="mailto:worksharma811@gmail.com" class="nav-btn" style="text-decoration: none; background: #D72631; color: #F3EFE0; padding: 10px 22px; border-radius: 30px; font-weight: 700; font-size: 0.95em; transition: all 0.2s; box-shadow: 0 4px 6px rgba(215,38,49,0.15); border: 1px solid #1A1A1A;">Contact Now →</a>
     </nav>
   </header>
 
-  <!-- MAIN CONTAINER -->
+  <!-- MAIN DYNAMIC FRAME -->
   <main style="max-width: 1100px; margin: 0 auto; padding: 60px 20px;">
     {{ content }}
   </main>
 
-  <!-- PREMIUM PRIVACY-SECURE DARK FOOTER -->
-  <footer style="background: #0f172a; color: #94a3b8; padding: 60px 40px 30px 40px; margin-top: 100px; border-top: 1px solid #1e293b;">
+  <!-- 🔴 PREMIUM DEEP BLACK FOOTER -->
+  <footer style="background: #1A1A1A; color: #F3EFE0; padding: 60px 40px 30px 40px; margin-top: 100px; border-top: 2px solid #1A1A1A;">
     <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px; margin-bottom: 40px;">
-      <div style="max-width: 350px;">
-        <h4 style="color: #ffffff; margin: 0 0 15px 0; font-size: 1.2em; font-weight: 700;">Visionary Founder<span style="color: #34d399;">.me</span></h4>
-        <p style="font-size: 0.95em; line-height: 1.6; color: #64748b;">A transparent, human-first portfolio connecting rigorous accounting workflows directly to software startup systems.</p>
+      <div style="max-width: 380px;">
+        <h4 style="color: #ffffff; margin: 0 0 15px 0; font-size: 1.3em; font-weight: 800; letter-spacing: -0.5px;">Visionary Founder<span style="color: #D72631;">.me</span></h4>
+        <p style="font-size: 0.95em; line-height: 1.6; opacity: 0.7;">A transparent, human-first portfolio connecting rigorous accounting workflows directly to software startup systems.</p>
       </div>
       <div>
-        <h5 style="color: #ffffff; margin: 0 0 15px 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px;">Quick Utilities</h5>
+        <h5 style="color: #ffffff; margin: 0 0 15px 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; font-weight: 700;">Utilities</h5>
         <ul style="list-style: none; padding: 0; margin: 0; font-size: 0.95em; line-height: 2;">
-          <li><a href="/" style="color: #64748b; text-decoration: none;">Dashboard Home</a></li>
-          <li><a href="/about" style="color: #64748b; text-decoration: none;">About Journey</a></li>
+          <li><a href="/" style="color: #F3EFE0; opacity: 0.6; text-decoration: none;">Dashboard Home</a></li>
+          <li><a href="/about" style="color: #F3EFE0; opacity: 0.6; text-decoration: none;">About Journey</a></li>
         </ul>
       </div>
       <div>
-        <h5 style="color: #ffffff; margin: 0 0 15px 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px;">Get In Touch</h5>
-        <p style="margin: 0; font-size: 0.95em;"><a href="mailto:worksharma811@gmail.com" style="color: #34d399; text-decoration: none; font-weight: 600;">worksharma811@gmail.com</a></p>
+        <h5 style="color: #ffffff; margin: 0 0 15px 0; text-transform: uppercase; font-size: 0.85em; letter-spacing: 1px; font-weight: 700;">Direct Channel</h5>
+        <p style="margin: 0; font-size: 1em;"><a href="mailto:worksharma811@gmail.com" style="color: #DAAS20; text-decoration: none; font-weight: 700;">worksharma811@gmail.com</a></p>
       </div>
     </div>
-    <div style="max-width: 1100px; margin: 0 auto; border-top: 1px solid #1e293b; padding-top: 25px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; font-size: 0.85em; color: #475569;">
-      <span>© 2026 Visionary Founder. Built entirely on free cloud engine nodes.</span>
+    <div style="max-width: 1100px; margin: 0 auto; border-top: 1px solid rgba(243,239,224,0.1); padding-top: 25px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; font-size: 0.85em; opacity: 0.4;">
+      <span>© 2026 Visionary Founder. Powered by pure human insight.</span>
       <span>Verified Student Asset • Hosted for 0 PKR</span>
     </div>
   </footer>
 
 </body>
 </html>
+
 
