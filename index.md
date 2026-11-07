@@ -3,73 +3,80 @@ layout: default
 title: Home
 ---
 
-<!-- NEW AGE HERO BANNER -->
-<div style="background: linear-gradient(135deg, #111827 0%, #065f46 100%); padding: 50px 35px; border-radius: 16px; color: #ffffff; margin-bottom: 40px; box-shadow: 0 10px 30px -5px rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08);">
-  <div style="display: inline-block; background: rgba(52, 211, 153, 0.15); color: #34d399; padding: 6px 14px; border-radius: 30px; font-size: 0.85em; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
-    ⚡ System Status: Live Portfolio
+<!-- HERO BANNER WRAPPER GRID -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 80px; padding: 20px 0;">
+  
+  <!-- LEFT SIDE TEXT BLOCK -->
+  <div style="flex: 1; min-width: 320px;">
+    <div style="background: #e6f4ea; color: #137333; padding: 6px 14px; border-radius: 20px; font-size: 0.85em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 25px;">
+      ✨ FA1 Financial Sandbox Active
+    </div>
+    
+    <!-- GIANT BOLD TYPOGRAPHY WITH THE CUSTOM UNDERLINE -->
+    <h1 style="font-size: 3.4em; font-weight: 800; color: #0f172a; line-height: 1.1; margin: 0 0 25px 0; letter-spacing: -1.5px;">
+      A chaotic thought becomes a <span style="position: relative; display: inline-block; color: #0f172a;">venture.<span style="position: absolute; left: 0; bottom: 5px; width: 100%; height: 8px; background: #fbbf24; z-index: -1; border-radius: 4px;"></span></span>
+    </h1>
+    
+    <p style="font-size: 1.25em; line-height: 1.7; color: #475569; margin: 0 0 35px 0; font-weight: 400;">
+      I build software startups from scratch while translating dry ACCA professional accountancy ledger rules into creative real-world human logic.
+    </p>
+    
+    <div style="display: flex; gap: 15px; flex-wrap: wrap;">
+      <a href="#streams" style="background: #059669; color: white; padding: 14px 28px; border-radius: 30px; font-weight: 700; text-decoration: none; box-shadow: 0 10px 20px -5px rgba(5,150,105,0.3); font-size: 1em;">Explore Intel Streams</a>
+      <a href="/about" style="border: 2px solid #cbd5e1; color: #475569; padding: 12px 26px; border-radius: 30px; font-weight: 700; text-decoration: none; font-size: 1em;">Read Profile Background</a>
+    </div>
   </div>
-  <h1 style="color: #ffffff; margin: 0 0 12px 0; font-size: 2.6em; font-weight: 800; letter-spacing: -1px; line-height: 1.15;">A Single Insight Becomes a Whole Venture.</h1>
-  <p style="font-size: 1.25em; color: #a7f3d0; margin: 0; font-weight: 400; max-width: 600px; line-height: 1.5; letter-spacing: -0.2px;">
-    Balancing professional finance frameworks with software startup design and modern creative strategy.
-  </p>
-</div>
 
-<!-- OPERATIONAL DIRECTIVE -->
-<div style="padding: 10px 5px; margin-bottom: 35px;">
-  <h2 style="font-size: 1.6em; color: #111827; font-weight: 700; margin-bottom: 18px; letter-spacing: -0.5px;">⚙️ The Operational Directive</h2>
-  <p style="font-size: 1.15em; line-height: 1.75; color: #4b5563; margin-bottom: 15px;">
-    I am engineering an unconventional path, scaling directly from a Matric background straight into the rigorous systems of <strong>ACCA FA1 Professional Accountancy</strong>, while actively building my first <strong>SaaS Startup</strong> from scratch.
-  </p>
-  <p style="font-size: 1.15em; line-height: 1.75; color: #4b5563; margin-bottom: 0;">
-    I don't rely on dry textbooks. My workspace runs on cross-niche focus—connecting complex accounting ledgers directly to human psychology, pop culture ecosystems, creator workflows, and advanced AI automation.
-  </p>
-</div>
-
-<hr style="border: 0; height: 1px; background: #e5e7eb; margin: 40px 0;">
-
-<!-- CONTENT GRIDS -->
-<h3 style="color: #111827; font-size: 1.5em; font-weight: 700; margin-bottom: 25px; letter-spacing: -0.3px;">📁 Active Digital Streams & Intel</h3>
-
-<!-- ARTICLE CARD -->
-<div style="background: #ffffff; padding: 30px; border-radius: 14px; border: 1px solid #e5e7eb; border-left: 6px solid #059669; box-shadow: 0 4px 12px -1px rgba(0,0,0,0.03); margin-bottom: 25px;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-    <span style="background: #ecfdf5; color: #047857; padding: 4px 12px; border-radius: 8px; font-size: 0.75em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Creative Finance</span>
-    <span style="color: #6b7280; font-size: 0.85em; font-weight: 500;">✓ Verified Production</span>
+  <!-- RIGHT SIDE INTERACTIVE STATUS COMPONENT -->
+  <div style="flex: 1; min-width: 320px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 40px; border-radius: 24px; color: white; box-shadow: 0 20px 40px -15px rgba(15,23,42,0.3); position: relative; border: 1px solid #334155;">
+    <div style="font-size: 0.8em; text-transform: uppercase; color: #34d399; letter-spacing: 1px; font-weight: 700; margin-bottom: 20px;">🛡️ Core Directives</div>
+    <div style="font-size: 1.35em; font-weight: 600; line-height: 1.6; margin-bottom: 25px; letter-spacing: -0.3px; color: #f8fafc;">
+      "We don't study rules out of memory. We build structures that map to reality."
+    </div>
+    <div style="border-top: 1px solid #334155; padding-top: 20px; display: flex; gap: 30px;">
+      <div>
+        <div style="font-size: 1.8em; font-weight: 800; color: #34d399;">ACCA</div>
+        <div style="font-size: 0.85em; color: #64748b; font-weight: 600;">FA1 Blueprint</div>
+      </div>
+      <div>
+        <div style="font-size: 1.8em; font-weight: 800; color: #fbbf24;">SaaS</div>
+        <div style="font-size: 0.85em; color: #64748b; font-weight: 600;">Build Status</div>
+      </div>
+    </div>
   </div>
-  <h4 style="margin: 0 0 12px 0; font-size: 1.4em; font-weight: 700; letter-spacing: -0.3px;">
-    🎬 <a href="./kdrama-bookkeeping" style="color: #111827; text-decoration: none;">The K-Drama Guide to Bookkeeping</a>
-  </h4>
-  <p style="margin: 0 0 20px 0; color: #4b5563; line-height: 1.65; font-size: 1.05em;">
-    Discover why textbook double-entry rules don't match human relationships—and how the financial concept of <strong>Balance Carried Down (c/d)</strong> bridges our daily emotional deficits.
-  </p>
-  <a href="./kdrama-bookkeeping" style="display: inline-block; background: #059669; color: #ffffff; padding: 10px 20px; border-radius: 8px; font-size: 0.9em; font-weight: 600; text-decoration: none; box-shadow: 0 4px 10px rgba(5,150,105,0.2);">Read Article Document →</a>
+
 </div>
 
-<!-- DISCLAIMER CARD -->
-<div style="background: #ffffff; padding: 26px; border-radius: 14px; border: 1px solid #e5e7eb; border-left: 6px solid #3b82f6; box-shadow: 0 4px 12px -1px rgba(0,0,0,0.03); margin-bottom: 40px;">
-  <span style="background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 8px; font-size: 0.75em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 12px;">Profile & Compliance</span>
-  <h4 style="margin: 0 0 8px 0; font-size: 1.3em; font-weight: 700;">
-    👤 <a href="./about" style="color: #111827; text-decoration: none;">The Journey Ledger: About Me & Safety Disclaimer</a>
-  </h4>
-  <p style="margin: 0; color: #4b5563; line-height: 1.6; font-size: 1em;">
-    Read my transparent student profile background, project overview, and the active financial filters configured to satisfy search safety guidelines.
-  </p>
+<!-- HORIZONTAL CONTENT SECTION GRID -->
+<div id="streams" style="padding-top: 20px;">
+  <h3 style="font-size: 1.8em; font-weight: 800; color: #0f172a; margin-bottom: 30px; letter-spacing: -0.5px;">📁 Featured Production Assets</h3>
+
+  <!-- PRODUCTION CARD BLOCK 1 -->
+  <div class="card-link" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 35px; border-radius: 16px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.01); margin-bottom: 30px; border-left: 6px solid #059669; transition: all 0.2s;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <span style="background: #ecfdf5; color: #047857; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 700; text-transform: uppercase;">Creative Finance</span>
+      <span style="color: #94a3b8; font-size: 0.85em; font-weight: 600;">✓ Stable Deployment</span>
+    </div>
+    <h4 style="margin: 0 0 12px 0; font-size: 1.5em; font-weight: 700; letter-spacing: -0.3px;">
+      🎬 <a href="./kdrama-bookkeeping" style="color: #0f172a; text-decoration: none;">The K-Drama Guide to Bookkeeping</a>
+    </h4>
+    <p style="margin: 0 0 25px 0; color: #475569; line-height: 1.7; font-size: 1.05em;">
+      An analytical deep-dive into why textbook double-entry rules fall short in human relationships—and how the framework of <strong>Balance Carried Down (c/d)</strong> manages emotional deficits.
+    </p>
+    <a href="./kdrama-bookkeeping" style="text-decoration: none; color: #059669; font-weight: 700; font-size: 0.95em;">Access Full Intel Log →</a>
+  </div>
+
+  <!-- PRODUCTION CARD BLOCK 2 -->
+  <div class="card-link" style="background: #ffffff; border: 1px solid #e2e8f0; padding: 35px; border-radius: 16px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.01); border-left: 6px solid #3b82f6; transition: all 0.2s;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <span style="background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 700; text-transform: uppercase;">Compliance</span>
+    </div>
+    <h4 style="margin: 0 0 12px 0; font-size: 1.5em; font-weight: 700; letter-spacing: -0.3px;">
+      👤 <a href="./about" style="color: #0f172a; text-decoration: none;">The Journey Ledger: Verification Profile</a>
+    </h4>
+    <p style="margin: 0; color: #475569; line-height: 1.7; font-size: 1.05em;">
+      A transparent trace of my educational footprint, student startup timeline, and safety disclaimers optimized for Google evaluation benchmarks.
+    </p>
+  </div>
 </div>
-
-<hr style="border: 0; height: 1px; background: #e5e7eb; margin: 40px 0;">
-
-<!-- PIPELINE ENGINE BOARD -->
-<div style="background: #f9fafb; padding: 25px; border-radius: 12px; border: 1px dashed #cbd5e1; margin-bottom: 20px;">
-  <h5 style="margin: 0 0 12px 0; color: #4b5563; font-size: 0.9em; text-transform: uppercase; letter-spacing: 1px; font-weight: 700;">📅 Upcoming Releases (Monday & Wednesday Node Updates)</h5>
-  <ul style="margin: 0; padding-left: 20px; color: #374151; line-height: 1.75; font-size: 1.05em;">
-    <li>📌 <strong>Case Study Analysis:</strong> <em>Steve Jobs' Product Vision vs. The Inflexible Realities of SaaS Cash Flow Management.</em></li>
-    <li>📌 <strong>AI Integration Log:</strong> <em>How I leverage digital co-pilots to transform raw polymath data points into professional logic frameworks.</em></li>
-  </ul>
-</div>
-
-<br>
-<p align="center" style="font-size: 0.85em; color: #9ca3af; font-weight: 500;">
-  Visionary Founder © 2026. Built entirely on zero-cost cloud architecture. Hosted for 0 PKR.
-</p>
-
 
