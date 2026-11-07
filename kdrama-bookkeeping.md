@@ -29,8 +29,8 @@ title: The K-Drama Guide to Bookkeeping
   <!-- FEATURED UN-COPYRIGHTED MEDIA STOCK BLOCK -->
   <!-- FEATURED HIGH-RES WORKSPACE IMAGE -->
 <div style="margin-bottom: 40px; border-radius: 12px; overflow: hidden; border: 2px solid #1A1A1A; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-  <img src="https://unsplash.com" alt="Professional Accounting Workspace" style="width: 100%; height: auto; display: block;">
-</div>
+  <img src="notebook.jpg" alt="Professional Accounting Workspace" style="width: 100%; height: auto; display: block;">
+
 
   <!-- DOPAMINE CHUNK TEXT WRAPPER LAYER -->
   <div class="article-body-wrapper">
