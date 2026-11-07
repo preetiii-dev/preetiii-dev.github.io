@@ -3,21 +3,10 @@ layout: default
 title: Home
 ---
 
-<!-- NEW AGE MINIMALIST NAVIGATION BAR -->
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 15px 0; margin-bottom: 50px; border-bottom: 1px solid #e2e8f0;">
-  <div style="font-size: 1.15em; font-weight: 800; color: #0f172a; letter-spacing: -0.5px;">
-    VISIONARY FOUNDER <span style="color: #059669;">.ME</span>
-  </div>
-  <div style="display: flex; gap: 20px;">
-    <a href="./" style="text-decoration: none; color: #059669; font-weight: 600; font-size: 0.95em;">Home</a>
-    <a href="./about" style="text-decoration: none; color: #64748b; font-weight: 500; font-size: 0.95em;">About</a>
-  </div>
-</div>
-
-<!-- 🟢 HERO SECTION (FULL WIDTH - NO SIDE BLOCK) -->
+<!-- 🟢 HERO SECTION (CLEAN FULL WIDTH) -->
 <div style="max-width: 850px; margin: 0 auto 70px auto; text-align: left; padding: 20px 0;">
   <div style="background: #e6f4ea; color: #137333; padding: 6px 14px; border-radius: 20px; font-size: 0.85em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 25px;">
-    ✨ FA1 Financial Sandbox Active
+    ✨ Financial Sandbox Active
   </div>
   
   <h1 style="font-size: 3.2em; font-weight: 800; color: #0f172a; line-height: 1.15; margin: 0 0 25px 0; letter-spacing: -1.5px;">
@@ -34,7 +23,7 @@ title: Home
   </div>
 </div>
 
-<!-- 🟢 SECTION 1: THE FLOATING METRIC BLOCK (SOLID TEMPLATE STYLE) -->
+<!-- 🟢 SECTION 1: FLOATING ENGINE METRICS (CURRENCY SCRUBBED FOR PRIVACY) -->
 <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 20px; padding: 40px 20px; text-align: center; margin-bottom: 80px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02);">
   <h4 style="margin: 0 0 10px 0; font-size: 1.1em; color: #059669; text-transform: uppercase; letter-spacing: 1px; font-weight: 700;">Engine Parameters</h4>
   <p style="font-size: 1.1em; color: #64748b; max-width: 600px; margin: 0 auto 35px auto; line-height: 1.6;">Documenting live project benchmarks across professional ledger metrics and cloud software development.</p>
@@ -49,38 +38,38 @@ title: Home
       <div style="font-size: 0.9em; color: #64748b; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">SaaS Build</div>
     </div>
     <div style="min-width: 150px;">
-      <div style="font-size: 2.2em; font-weight: 800; color: #fbbf24;">0 PKR</div>
+      <div style="font-size: 2.2em; font-weight: 800; color: #fbbf24;">0</div>
       <div style="font-size: 0.9em; color: #64748b; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Infrastructure Cost</div>
     </div>
   </div>
 </div>
 
-<!-- 🟢 SECTION 2: THE TOOL INTEGRATION GRID (SOLID TEMPLATE STYLE) -->
+<!-- 🟢 SECTION 2: HUMOROUS/STUDENT OPERATIONAL STACK GRID -->
 <div style="text-align: center; margin-bottom: 80px; padding: 20px 0;">
   <div style="background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; display: inline-block; margin-bottom: 15px;">Integrations</div>
   <h3 style="font-size: 1.8em; font-weight: 800; color: #0f172a; margin: 0 0 10px 0; letter-spacing: -0.5px;">Seamless Operational Stack</h3>
-  <p style="font-size: 1.1em; color: #475569; max-width: 600px; margin: 0 auto 40px auto; line-height: 1.6;">Leveraging modern development portals and financial frameworks to architect a highly efficient asset footprint.</p>
+  <p style="font-size: 1.1em; color: #475569; max-width: 600px; margin: 0 auto 40px auto; line-height: 1.6;">Leveraging raw human elements alongside foundational development frameworks to architect an authentic digital footprint.</p>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px;">
-    <!-- TOOL CARD 1 -->
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center;">
-      <div style="font-size: 1.5em; margin-bottom: 8px;">📊</div>
-      <div style="font-size: 0.9em; font-weight: 700; color: #0f172a;">ACCA FA1</div>
+    <!-- ACCA COMPONENT -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 25px 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center;">
+      <div style="font-size: 1.8em; margin-bottom: 10px;">📊</div>
+      <div style="font-size: 0.95em; font-weight: 800; color: #0f172a; letter-spacing: -0.2px;">ACCA</div>
     </div>
-    <!-- TOOL CARD 2 -->
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center;">
-      <div style="font-size: 1.5em; margin-bottom: 8px;">💻</div>
-      <div style="font-size: 0.9em; font-weight: 700; color: #0f172a;">GitHub</div>
+    <!-- GITHUB COMPONENT -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 25px 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center;">
+      <div style="font-size: 1.8em; margin-bottom: 10px;">💻</div>
+      <div style="font-size: 0.95em; font-weight: 800; color: #0f172a; letter-spacing: -0.2px;">GitHub</div>
     </div>
-    <!-- TOOL CARD 3 -->
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center;">
-      <div style="font-size: 1.5em; margin-bottom: 8px;">⚡</div>
-      <div style="font-size: 0.9em; font-weight: 700; color: #0f172a;">Netlify</div>
+    <!-- THE MIND INVENTIVE UNIT -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 25px 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center; border-bottom: 3px solid #059669;">
+      <div style="font-size: 1.8em; margin-bottom: 10px;">🧠</div>
+      <div style="font-size: 0.95em; font-weight: 800; color: #059669; letter-spacing: -0.2px;">Mind</div>
     </div>
-    <!-- TOOL CARD 4 -->
-    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center;">
-      <div style="font-size: 1.5em; margin-bottom: 8px;">🤖</div>
-      <div style="font-size: 0.9em; font-weight: 700; color: #0f172a;">AI Co-Pilot</div>
+    <!-- THE PEN LOGISTICS UNIT -->
+    <div style="background: #ffffff; border: 1px solid #e2e8f0; padding: 25px 20px; border-radius: 12px; width: 140px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02); text-align: center; border-bottom: 3px solid #fbbf24;">
+      <div style="font-size: 1.8em; margin-bottom: 10px;">✍️</div>
+      <div style="font-size: 0.95em; font-weight: 800; color: #b45309; letter-spacing: -0.2px;">Pen</div>
     </div>
   </div>
 </div>
@@ -119,4 +108,5 @@ title: Home
     </p>
   </div>
 </div>
+
 
