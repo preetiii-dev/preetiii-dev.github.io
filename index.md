@@ -13,8 +13,9 @@ title: Home
       <span style="font-weight: 800; font-size: 1.3em; letter-spacing: -0.5px; color: #F3EFE0;">Visionary Founder</span>
     </div>
     <nav style="display: flex; align-items: center; gap: 40px;">
-      <a href="/" style="text-decoration: none; color: #F3EFE0; font-weight: 700; font-size: 0.95em; opacity: 1;">Home</a>
+      <a href="/" style="text-decoration: none; color: #F3EFE0; font-weight: 700; font-size: 0.95em;">Home</a>
       <a href="/about" style="text-decoration: none; color: #F3EFE0; font-weight: 600; font-size: 0.95em; opacity: 0.85;">About Me</a>
+      <a href="/disclaimer" style="text-decoration: none; color: #F3EFE0; font-weight: 600; font-size: 0.95em; opacity: 0.85;">Disclaimer</a>
       <a href="mailto:worksharma811@gmail.com" style="text-decoration: none; background: #F3EFE0; color: #D72631; padding: 10px 22px; border-radius: 30px; font-weight: 700; font-size: 0.95em; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border: 1px solid #1A1A1A;">Sign Up</a>
     </nav>
   </div>
@@ -25,7 +26,6 @@ title: Home
       ⚡ System Node: Human Sandbox Active
     </div>
     
-    <!-- OPTIMIZED MEDIUM FONT ADJUSTMENT LAYER -->
     <h1 style="color: #F3EFE0; margin: 0 0 25px 0; font-size: 1.95em; font-weight: 700; letter-spacing: -0.5px; line-height: 1.45; max-width: 800px;">
       In a world optimized by AI, human chaos is a venture. Writing is my rebellion, and I am born rebellious.
     </h1>
@@ -36,7 +36,6 @@ title: Home
     
     <div style="display: flex; gap: 20px; flex-wrap: wrap;">
       <a href="#streams" style="background: #F3EFE0; color: #1A1A1A; padding: 14px 28px; border-radius: 35px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; font-size: 0.9em; border: 1px solid #1A1A1A;">Read the Rebellion</a>
-      <a href="/about" style="background: transparent; border: 2px solid #F3EFE0; color: #F3EFE0; padding: 12px 26px; border-radius: 35px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; font-size: 0.9em;">See the SaaS</a>
     </div>
   </div>
 
@@ -122,6 +121,7 @@ title: Home
   </div>
 
 </div>
+
 
 
 
