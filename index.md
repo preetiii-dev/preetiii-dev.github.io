@@ -16,6 +16,7 @@ title: Home
       <a href="/" style="text-decoration: none; color: #F3EFE0; font-weight: 700; font-size: 0.95em;">Home</a>
       <a href="/about" style="text-decoration: none; color: #F3EFE0; font-weight: 600; font-size: 0.95em; opacity: 0.85;">About Me</a>
       <a href="/disclaimer" style="text-decoration: none; color: #F3EFE0; font-weight: 600; font-size: 0.95em; opacity: 0.85;">Disclaimer</a>
+      <a href="/none-of-your-business" style="text-decoration: none; color: #F3EFE0; font-weight: 600; font-size: 0.95em; opacity: 0.85;">None of Your Business</a>
       <a href="mailto:worksharma811@gmail.com" style="text-decoration: none; background: #F3EFE0; color: #D72631; padding: 10px 22px; border-radius: 30px; font-weight: 700; font-size: 0.95em; box-shadow: 0 4px 10px rgba(0,0,0,0.1); border: 1px solid #1A1A1A;">Sign Up</a>
     </nav>
   </div>
@@ -121,6 +122,7 @@ title: Home
   </div>
 
 </div>
+
 
 
 
