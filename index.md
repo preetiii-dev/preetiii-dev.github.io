@@ -4,9 +4,9 @@ title: Home
 ---
 
 <!-- 🔴 FULL-WIDTH CADMIUM RED STUDIO CONTAINER -->
-<div style="background: #D72631; margin-top: 0; margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); padding: 0 calc(50vw - 50% + 40px) 60px calc(50vw - 50% + 40px); border-bottom: 2px solid #1A1A1A; box-shadow: 0 15px 35px -10px rgba(215,38,49,0.15);">
+<div style="background: #D72631; margin-top: 0; margin-left: calc(-50vw + 50%); margin-right: calc(-50vw + 50%); padding: 0 calc(50vw - 50% + 40px) 60px calc(50vw - 50% + 40px); border-bottom: 2px solid #1A1A1A; box-shadow: 0 15px 35px -10px rgba(215,38,49,0.15); overflow: hidden;">
   
-  <!-- INNER RECREATION HEADER MENU BAR -->
+  <!-- INNER HEADER MENU BAR -->
   <div style="max-width: 1100px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; padding: 25px 0 60px 0;">
     <div style="display: flex; align-items: center; gap: 12px;">
       <div style="background: #F3EFE0; width: 34px; height: 34px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #D72631; font-weight: 800; font-size: 1.2em;">V</div>
@@ -20,23 +20,33 @@ title: Home
     </nav>
   </div>
 
-  <!-- MID-SIZED, OPTIMIZED TEXT CONTENT DEPLOYMENT -->
-  <div style="max-width: 1100px; margin: 0 auto; text-align: left;">
-    <div style="background: #1A1A1A; color: #DAAS20; padding: 6px 14px; border-radius: 30px; font-size: 0.85em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 30px;">
-      ⚡ System Node: Human Sandbox Active
+  <!-- TWO-COLUMN LAYOUT MATRIX FOR TEXT + CUTE DOODLE -->
+  <div style="max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 50px;">
+    
+    <!-- LEFT SIDE: YOUR INTRO TEXT -->
+    <div style="flex: 1; max-width: 750px; text-align: left;">
+      <div style="background: #1A1A1A; color: #DAAS20; padding: 6px 14px; border-radius: 30px; font-size: 0.85em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; display: inline-block; margin-bottom: 30px;">
+        ⚡ System Node: Human Sandbox Active
+      </div>
+      
+      <h1 style="color: #F3EFE0; margin: 0 0 25px 0; font-size: 1.95em; font-weight: 700; letter-spacing: -0.5px; line-height: 1.45;">
+        In a world optimized by AI, human chaos is a venture. Writing is my rebellion, and I am born rebellious.
+      </h1>
+      
+      <p style="font-size: 1.1em; line-height: 1.7; color: #F3EFE0; opacity: 0.85; margin: 0 0 45px 0; font-weight: 400; letter-spacing: 0.1px;">
+        In an era of perfect AI code and sterile balances, I choose the beautiful chaos of human logic. Born rebellious, building a SaaS from scratch. <span style="font-style: italic; color: #DAAS20; font-weight: 700; margin-left: 4px;">(Hiiii, this is Nikki!)</span>
+      </p>
+      
+      <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+        <a href="#streams" style="background: #F3EFE0; color: #1A1A1A; padding: 14px 28px; border-radius: 35px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; font-size: 0.9em; border: 1px solid #1A1A1A;">Read the Rebellion</a>
+      </div>
     </div>
-    
-    <h1 style="color: #F3EFE0; margin: 0 0 25px 0; font-size: 1.95em; font-weight: 700; letter-spacing: -0.5px; line-height: 1.45; max-width: 800px;">
-      In a world optimized by AI, human chaos is a venture. Writing is my rebellion, and I am born rebellious.
-    </h1>
-    
-    <p style="font-size: 1.1em; line-height: 1.7; color: #F3EFE0; opacity: 0.85; margin: 0 0 45px 0; font-weight: 400; max-width: 700px; letter-spacing: 0.1px;">
-      In an era of perfect AI code and sterile balances, I choose the beautiful chaos of human logic. Born rebellious, building a SaaS from scratch. <span style="font-style: italic; color: #DAAS20; font-weight: 700; margin-left: 4px;">(Hiiii, this is Nikki!)</span>
-    </p>
-    
-    <div style="display: flex; gap: 20px; flex-wrap: wrap;">
-      <a href="#streams" style="background: #F3EFE0; color: #1A1A1A; padding: 14px 28px; border-radius: 35px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; text-decoration: none; font-size: 0.9em; border: 1px solid #1A1A1A;">Read the Rebellion</a>
+
+    <!-- RIGHT SIDE: CUTE RETRO PC DOODLE -->
+    <div class="desktop-graphic-box" style="flex-shrink: 0; width: 220px; text-align: center;">
+      <img src="./retro-pc.png" alt="Waving Retro Character" style="width: 100%; height: auto; display: block; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.2)); transform: rotate(2deg);">
     </div>
+
   </div>
 
 </div>
@@ -62,7 +72,7 @@ title: Home
     </div>
   </div>
 
-  <!-- HUMOROUS INTEGRATION GRID -->
+  <!-- INTEGRATION STACK GRID -->
   <div style="text-align: center; margin-bottom: 80px; padding: 10px 0;">
     <h3 style="font-size: 2em; font-weight: 800; color: #1A1A1A; margin: 0 0 12px 0; letter-spacing: -0.5px;">Seamless Operational Stack</h3>
     <p style="font-size: 1.15em; color: #475569; max-width: 600px; margin: 0 auto 45px auto; line-height: 1.6;">Leveraging raw human elements alongside foundational assets to architect an authentic digital footprint.</p>
@@ -93,6 +103,7 @@ title: Home
   <div id="streams" style="padding-top: 10px; margin-bottom: 60px;">
     <h3 style="font-size: 2em; font-weight: 800; color: #1A1A1A; margin-bottom: 35px; letter-spacing: -0.5px;">📁 Featured Production Assets</h3>
 
+    <!-- ARTICLE 1 -->
     <div class="card-link" style="background: #ffffff; border: 2px solid #1A1A1A; padding: 35px; border-radius: 16px; margin-bottom: 35px; border-left: 8px solid #D72631; transition: all 0.2s; text-align: left;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
         <span style="background: #fdf2f2; color: #D72631; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 800; text-transform: uppercase;">Creative Finance</span>
@@ -107,20 +118,31 @@ title: Home
       <a href="./kdrama-bookkeeping" style="text-decoration: none; color: #D72631; font-weight: 800; font-size: 0.95em;">Access Full Intel Log →</a>
     </div>
 
+    <!-- COMPLIANCE PROFILE CARD -->
     <div class="card-link" style="background: #ffffff; border: 2px solid #1A1A1A; padding: 35px; border-radius: 16px; border-left: 8px solid #1A1A1A; transition: all 0.2s; text-align: left;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
         <span style="background: #f8fafc; color: #1A1A1A; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 800; text-transform: uppercase;">Compliance</span>
       </div>
       <h4 style="margin: 0 0 12px 0; font-size: 1.6em; font-weight: 800; letter-spacing: -0.3px;">
-        👤 <a href="./about" style="color: #1A1A1A; text-decoration: none;">The Journey Ledger: Verification Profile</a>
+        👤 <a href="/about" style="color: #1A1A1A; text-decoration: none;">The Journey Ledger: Verification Profile</a>
       </h4>
       <p style="margin: 0; color: #475569; line-height: 1.7; font-size: 1.05em;">
         A transparent trace of my educational footprint, student startup timeline, and safety disclaimers optimized for Google evaluation benchmarks.
       </p>
     </div>
+
   </div>
 
 </div>
+
+<!-- 🔴 RESPONSIVE MEDIA STYLING ENGINE FOR MOBILE SCREENS -->
+<style>
+  @media (max-width: 992px) {
+    .desktop-graphic-box { display: none !important; }
+  }
+</style>
+
+
 
 
 
