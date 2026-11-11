@@ -36,9 +36,9 @@ title: Steve Jobs, Jalebis, and the Cash Flow Trap
     
     <p>Honestly, building a SaaS project from scratch on a zero-dollar student budget feels like pure rebellion right now. And let's be honest about the biggest contradiction on the internet: everyone publicly claims they hate AI, yet we all secretly use it behind closed doors to handle the boring, repetitive tasks.</p>
 
-    <!-- IMAGE 1 -->
+    <!-- PHOTO 1: STEVE JOBS BOOK -->
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; border: 2px solid #1A1A1A;">
-      <img src="/pic1.jpg" alt="Building a SaaS on a zero dollar budget" style="width: 100%; height: auto; display: block;">
+      <img src="/jobs-book.jpg" alt="Steve Jobs Biography Vision" style="width: 100%; height: auto; display: block;">
     </div>
 
     <h3>Stop Hiding Behind 1,000 Lines of Code</h3>
@@ -51,9 +51,9 @@ title: Steve Jobs, Jalebis, and the Cash Flow Trap
     
     <p>You can no longer hide behind thousands of lines of code. Everyone has access to the exact same tools, which gently forces us to rely on <strong>100% raw human creativity</strong>—our personal environment, our weird contradictions, and our own execution—to stand out.</p>
 
-    <!-- IMAGE 2 -->
+    <!-- PHOTO 2: VINTAGE APPLE COMPUTERS -->
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; border: 2px solid #1A1A1A;">
-      <img src="/pic2.jpg" alt="Creativity over syntax" style="width: 100%; height: auto; display: block;">
+      <img src="/vintage-macs.jpg" alt="Vintage Apple Computers Display" style="width: 100%; height: auto; display: block;">
     </div>
 
     <h3>The "Jalebi" Perspective Trap</h3>
@@ -68,16 +68,11 @@ title: Steve Jobs, Jalebis, and the Cash Flow Trap
     
     <p>People remain trapped in their limited thinking until a hero—male or female, because we do gender equality around here—steps up and shamelessly shows them the finished product.</p>
 
-    <!-- IMAGE 3 -->
-    <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; border: 2px solid #1A1A1A;">
-      <img src="/pic3.jpg" alt="Breaking out of limited perspectives" style="width: 100%; height: auto; display: block;">
-    </div>
-
     <h3>Reverse Engineering Reality vs. ACCA Rules</h3>
     
     <p>To build something people have never seen before, you have to break down how things actually work—analyze the pieces, decompile the problem, understand the logic, and rebuild it your own way.</p>
 
-    <!-- IMAGE 4: YOUR CUSTOM REVERSE ENGINEER GRAPHIC -->
+    <!-- PHOTO 3: YOUR CUSTOM REVERSE ENGINEER DIAGRAM -->
     <div style="margin: 35px 0; border-radius: 12px; overflow: hidden; border: 2px solid #1A1A1A;">
       <img src="/reverse-engineer.png" alt="Reverse Engineer: Analyze, Decompile, Understand, Rebuild" style="width: 100%; height: auto; display: block;">
     </div>
@@ -95,6 +90,11 @@ title: Steve Jobs, Jalebis, and the Cash Flow Trap
     <p>Because nobody asked for your radical new product, nobody is lined up with a credit card on Day 1. Your <strong>Revenue</strong> sits at zero while the world slowly figures out what you built.</p>
     
     <p>Meanwhile, your <strong>Expenses</strong> start immediately. In accounting, survival comes down to one critical concept: <strong>Liquidity</strong>.</p>
+
+    <!-- PHOTO 4: RETRO SCREEN WITH $800 AND BILLS (CENTERED PORTRAIT FRAME) -->
+    <div style="margin: 35px auto; max-width: 480px; border-radius: 12px; overflow: hidden; border: 2px solid #1A1A1A;">
+      <img src="/apple-bill.jpg" alt="Retro Computer Screen Showing Cash Balance and Bills" style="width: 100%; height: auto; display: block;">
+    </div>
     
     <ul>
       <li><strong>Your Product is an Asset:</strong> You spend all your time, creativity, and money building a brilliant app. On paper, your business owns a valuable asset.</li>
