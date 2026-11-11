@@ -93,6 +93,20 @@ title: Home
   <!-- ARTICLES FEED -->
   <div id="streams" style="padding-top: 10px; margin-bottom: 60px;">
     <h3 style="font-size: 2em; font-weight: 800; color: #1A1A1A; margin-bottom: 35px; letter-spacing: -0.5px;">📁 Featured Production Assets</h3>
+    <!-- WEDNESDAY ARTICLE CARD -->
+    <div class="card-link" style="background: #ffffff; border: 2px solid #1A1A1A; padding: 35px; border-radius: 16px; margin-bottom: 35px; border-left: 8px solid #DAAS20; transition: all 0.2s; text-align: left;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+        <span style="background: #fefcbf; color: #b45309; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 800; text-transform: uppercase;">SaaS & Accounting</span>
+        <span style="color: #64748b; font-size: 0.85em; font-weight: 600;">✓ Wednesday Drop</span>
+      </div>
+      <h4 style="margin: 0 0 12px 0; font-size: 1.6em; font-weight: 800; letter-spacing: -0.3px;">
+        🍏 <a href="./steve-jobs-cashflow" style="color: #1A1A1A; text-decoration: none;">Steve Jobs, Jalebis, and the Cash Flow Trap</a>
+      </h4>
+      <p style="margin: 0 0 25px 0; color: #475569; line-height: 1.7; font-size: 1.05em;">
+        Why chasing validation ruins startups faster than your ex—and how the ACCA rule of <strong>Liquidity</strong> keeps solo founders from going broke.
+      </p>
+      <a href="./steve-jobs-cashflow" style="text-decoration: none; color: #b45309; font-weight: 800; font-size: 0.95em;">Access Full Intel Log →</a>
+    </div>
 
     <div class="card-link" style="background: #ffffff; border: 2px solid #1A1A1A; padding: 35px; border-radius: 16px; margin-bottom: 35px; border-left: 8px solid #D72631; transition: all 0.2s; text-align: left;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
