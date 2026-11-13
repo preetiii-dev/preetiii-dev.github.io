@@ -48,6 +48,11 @@ title: Home
   <!-- METRICS CARD ROW -->
   <div style="background: #ffffff; border: 2px solid #1A1A1A; border-radius: 20px; padding: 45px 20px; text-align: center; margin-bottom: 70px; box-shadow: 0 4px 12px rgba(0,0,0,0.02);">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 70px;">
+            <div style="min-width: 140px;">
+        <div style="font-size: 2.6em; font-weight: 800; color: #D72631; margin-bottom: 5px;">{{ site.pages | where_exp: "p", "p.path contains '.md'" | size | minus: 6 }}</div>
+        <div style="font-size: 0.9em; color: #64748b; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Published Articles</div>
+      </div>
+
       <div style="min-width: 160px;">
         <div style="font-size: 2.6em; font-weight: 800; color: #1A1A1A; margin-bottom: 5px;">70+</div>
         <div style="font-size: 0.9em; color: #64748b; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;">Planned Articles</div>
