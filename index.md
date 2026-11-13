@@ -93,6 +93,21 @@ title: Home
   <!-- ARTICLES FEED -->
   <div id="streams" style="padding-top: 10px; margin-bottom: 60px;">
     <h3 style="font-size: 2em; font-weight: 800; color: #1A1A1A; margin-bottom: 35px; letter-spacing: -0.5px;">📁 Featured Production Assets</h3>
+        <!-- SATURDAY ARTICLE CARD -->
+    <div class="card-link" style="background: #ffffff; border: 2px solid #1A1A1A; padding: 35px; border-radius: 16px; margin-bottom: 35px; border-left: 8px solid #D72631; transition: all 0.2s; text-align: left;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+        <span style="background: #fdf2f2; color: #D72631; padding: 4px 12px; border-radius: 6px; font-size: 0.75em; font-weight: 800; text-transform: uppercase;">Polymath Mindset</span>
+        <span style="color: #64748b; font-size: 0.85em; font-weight: 600;">✓ Saturday Drop</span>
+      </div>
+      <h4 style="margin: 0 0 12px 0; font-size: 1.6em; font-weight: 800; letter-spacing: -0.3px;">
+        🧠 <a href="./nathan-myhrvold-polymath" style="color: #1A1A1A; text-decoration: none;">In an AI World, Only This Man Can Save You...</a>
+      </h4>
+      <p style="margin: 0 0 25px 0; color: #475569; line-height: 1.7; font-size: 1.05em;">
+        What physicist Nathan Myhrvold, playing the flute, and holding a pencil vs. a pen taught me about surviving the AI era with an ADHD brain.
+      </p>
+      <a href="./nathan-myhrvold-polymath" style="text-decoration: none; color: #D72631; font-weight: 800; font-size: 0.95em;">Access Full Intel Log →</a>
+    </div>
+
     <!-- WEDNESDAY ARTICLE CARD -->
     <div class="card-link" style="background: #ffffff; border: 2px solid #1A1A1A; padding: 35px; border-radius: 16px; margin-bottom: 35px; border-left: 8px solid #DAAS20; transition: all 0.2s; text-align: left;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
