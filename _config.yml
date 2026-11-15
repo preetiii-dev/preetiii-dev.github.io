@@ -1,4 +1,0 @@
-permalink: /posts/:title/
-url: "https://visionaryfounder.me"
-plugins:
-  - jekyll-sitemap
